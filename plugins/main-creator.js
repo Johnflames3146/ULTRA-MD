@@ -7,7 +7,7 @@ ORG:GlobalTechInfo
 TITLE:Owner
 item1.TEL;waid=923444844060:923444844060
 item1.X-ABLabel:Owner
-X-WA-BIZ-DESCRIPTION:Owner of the Bot
+X-WA-BIZ-DESCRIPTION:Developer of the Bot
 X-WA-BIZ-NAME:Qasim Ali
 END:VCARD`;
 
@@ -21,6 +21,6 @@ END:VCARD`;
 
 handler.help = ['owner'];
 handler.tags = ['main'];
-handler.command = ['owner', 'creator', 'creador', 'dueño'];
+handler.command = ['creator', 'creador', 'dueño'];
 
 export default handler;

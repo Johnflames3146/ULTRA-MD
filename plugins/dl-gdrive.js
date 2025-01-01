@@ -1,1 +1,105 @@
-function _0x2716(_0x9aca5d,_0x508191){const _0x1fcb01=_0x46a4();return _0x2716=function(_0xe9ac38,_0x24445d){_0xe9ac38=_0xe9ac38-(-0x7*-0x138+0x452+-0xb6d);let _0x3731ca=_0x1fcb01[_0xe9ac38];return _0x3731ca;},_0x2716(_0x9aca5d,_0x508191);}const _0x3b2b82=_0x2716;function _0x46a4(){const _0x82c559=['3255405UFYEfN','31234073jSKOvL','406YqicAK','6lcZCoz','Drive\x20DL*\x0a','ck\x20the\x20lin','22429RZMEjC','tags','fileName','ve\x20link','premium','SQBDF','Error\x20down','nother\x20lin','fileSize','69jwAFUi','WTmUq','downloadUr','≡\x20*Google\x20','Error:\x20Che','fHwSs','✳️\x20Enter\x20a\x20','91144qdwhsW','▢\x20*Number:','36757NVrztq','k\x20or\x20try\x20a','375651bfykQE','4428pPrWHc','react','om\x20Google\x20','\x0a▢\x20*Size:*','command','reply','sendMessag','help','error','152GcJQEl','gdrive\x20<ur','5183WiAjFP','credit','300ufzOvi','Drive:','loading\x20fr','14IVioQd','chat','mimetype','Google\x20Dri','gdrive','\x0a▢\x20*Type:*','downloader'];_0x46a4=function(){return _0x82c559;};return _0x46a4();}(function(_0x2b489b,_0x521320){const _0x56f893=_0x2716,_0x3549b1=_0x2b489b();while(!![]){try{const _0xad29c9=-parseInt(_0x56f893(0x17d))/(-0x879*0x3+-0x8*-0x16b+0xe14*0x1)*(-parseInt(_0x56f893(0x18b))/(-0x1a8c+0x29*0x91+0x355))+parseInt(_0x56f893(0x198))/(-0xe*-0x28a+-0x1559+-0x1c6*0x8)*(-parseInt(_0x56f893(0x16d))/(0xa27+0x26f1+0x15d*-0x24))+-parseInt(_0x56f893(0x189))/(-0x560+0x1899+-0x1334)*(-parseInt(_0x56f893(0x18c))/(-0x1f7e+0x1e*-0xde+-0x41c*-0xe))+parseInt(_0x56f893(0x16f))/(-0x85f*-0x1+0x3*0xc2b+-0x2cd9)*(-parseInt(_0x56f893(0x17b))/(0x1843+0x2649+-0x3e84))+-parseInt(_0x56f893(0x171))/(0x11af+-0x9*-0x225+-0x24f3)*(-parseInt(_0x56f893(0x17f))/(0x1*0x1d+0x1150+-0x1163))+-parseInt(_0x56f893(0x18f))/(-0x429+-0xb*0x39+0x6a7)*(-parseInt(_0x56f893(0x172))/(-0x13d0*0x1+0xc7*-0xe+0x1ebe))+-parseInt(_0x56f893(0x18a))/(0x19f5+-0x12f0+-0x6f8)*(parseInt(_0x56f893(0x182))/(-0x905*0x1+0x5c1+0x352));if(_0xad29c9===_0x521320)break;else _0x3549b1['push'](_0x3549b1['shift']());}catch(_0x1232b2){_0x3549b1['push'](_0x3549b1['shift']());}}}(_0x46a4,-0xf1086+0x11d938+0x79cb9*0x1));import _0xe2d9a3 from'nayan-media-downloader';const {GDLink}=_0xe2d9a3;let handler=async(_0x2691d0,{conn:_0x25f4c1,args:_0x313e69,usedPrefix:_0x4ca620,command:_0x2d0d8b})=>{const _0x1d7f0c=_0x2716,_0x1f6ea0={'fHwSs':function(_0x113f7a,_0x31cdb4){return _0x113f7a(_0x31cdb4);},'SQBDF':_0x1d7f0c(0x195)+_0x1d7f0c(0x181)+_0x1d7f0c(0x174)+_0x1d7f0c(0x180),'WTmUq':_0x1d7f0c(0x19c)+_0x1d7f0c(0x18e)+_0x1d7f0c(0x170)+_0x1d7f0c(0x196)+'k.'};if(!_0x313e69[0x20*0x35+0x3*-0x50a+0x87e])throw _0x1d7f0c(0x19e)+_0x1d7f0c(0x185)+_0x1d7f0c(0x192);_0x2691d0[_0x1d7f0c(0x173)]('⏳');try{let _0x2f40b3=await _0x1f6ea0[_0x1d7f0c(0x19d)](GDLink,_0x313e69[-0x48a*-0x7+0x8a+-0x2050]);await _0x2691d0[_0x1d7f0c(0x177)](_0x1d7f0c(0x19b)+_0x1d7f0c(0x18d)+_0x1d7f0c(0x16e)+'*\x20'+_0x2f40b3[_0x1d7f0c(0x191)]+(_0x1d7f0c(0x175)+'\x20')+_0x2f40b3[_0x1d7f0c(0x197)]+(_0x1d7f0c(0x187)+'\x20')+_0x2f40b3[_0x1d7f0c(0x184)]),await _0x25f4c1[_0x1d7f0c(0x178)+'e'](_0x2691d0[_0x1d7f0c(0x183)],{'document':{'url':_0x2f40b3[_0x1d7f0c(0x19a)+'l']},'fileName':_0x2f40b3[_0x1d7f0c(0x191)],'mimetype':_0x2f40b3[_0x1d7f0c(0x184)]},{'quoted':_0x2691d0}),_0x2691d0[_0x1d7f0c(0x173)]('✅');}catch(_0x32bff1){console[_0x1d7f0c(0x17a)](_0x1f6ea0[_0x1d7f0c(0x194)],_0x32bff1),_0x2691d0[_0x1d7f0c(0x177)](_0x1f6ea0[_0x1d7f0c(0x199)]);}};handler[_0x3b2b82(0x179)]=[_0x3b2b82(0x17c)+'l>'],handler[_0x3b2b82(0x190)]=[_0x3b2b82(0x188),_0x3b2b82(0x193)],handler[_0x3b2b82(0x176)]=[_0x3b2b82(0x186)],handler[_0x3b2b82(0x17e)]=![],handler[_0x3b2b82(0x193)]=![];export default handler;
+import pkg from 'nayan-videos-downloader';
+const { GDLink } = pkg;
+
+// Simple retry function for fetch requests
+const fetchWithRetry = async (url, options, retries = 3, delay = 1000) => {
+  try {
+    const response = await fetch(url, options);
+    if (!response.ok) throw new Error(`Failed to fetch, status code: ${response.status}`);
+    return response;
+  } catch (error) {
+    if (retries === 0) throw new Error('Max retries reached. Could not fetch the media.');
+    console.log(`Fetch failed, retrying... (${retries} retries left)`);
+    await new Promise(resolve => setTimeout(resolve, delay)); // Delay before retry
+    return fetchWithRetry(url, options, retries - 1, delay); // Retry the fetch
+  }
+};
+
+const handler = async (m, { conn, args }) => {
+  if (!args[0]) throw '✳️ Enter the Google Drive link next to the command';
+
+  m.react('⏳');
+  try {
+    const url = args[0];
+    console.log('Checking link:', url);
+
+    // Fetching media data from Google Drive using the GDLink method from the package
+    let mediaData;
+    try {
+      mediaData = await GDLink(url); // Fetch data from Google Drive
+      console.log('Media Data:', mediaData);
+    } catch (error) {
+      console.error('Error fetching Google Drive data:', error.message);
+      throw new Error('Could not fetch Google Drive data');
+    }
+
+    // Ensure mediaData and the necessary 'data' property exists
+    if (!mediaData || !mediaData.data) {
+      throw new Error('No valid media URL found');
+    }
+
+    // The actual download link is in the 'data' property
+    const mediaUrl = mediaData.data;
+    console.log('Media URL:', mediaUrl);
+
+    // Fetch the media content
+    const response = await fetchWithRetry(mediaUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*'
+      }
+    });
+
+    const contentType = response.headers.get('content-type');
+    console.log('Content Type:', contentType);
+
+    if (!contentType) {
+      throw new Error('No content-type received');
+    }
+
+    // Handle video download
+    if (contentType.includes('video')) {
+      const arrayBuffer = await response.arrayBuffer();
+      const mediaBuffer = Buffer.from(arrayBuffer);
+
+      if (mediaBuffer.length === 0) throw new Error('Downloaded video is empty');
+
+      const fileName = mediaData.title ? `${mediaData.title}.mp4` : 'media.mp4';
+      const mimetype = 'video/mp4';
+
+      await conn.sendFile(m.chat, mediaBuffer, fileName, '*Powered by Ultra-MD*', m, false, { mimetype });
+      m.react('✅');
+    }
+    // Handle image download
+    else if (contentType.includes('image')) {
+      const arrayBuffer = await response.arrayBuffer();
+      const mediaBuffer = Buffer.from(arrayBuffer);
+
+      if (mediaBuffer.length === 0) throw new Error('Downloaded image is empty');
+
+      const fileName = mediaData.title ? `${mediaData.title}.jpg` : 'media.jpg';
+      const mimetype = 'image/jpeg';
+
+      await conn.sendFile(m.chat, mediaBuffer, fileName, '*Powered by Ultra-MD*', m, false, { mimetype });
+      m.react('✅');
+    } else {
+      throw new Error('Unsupported media type');
+    }
+
+  } catch (error) {
+    console.error('Error processing Google Drive download:', error.message);
+    await m.reply('⚠️ An error occurred while processing the request. Please try again later.');
+    m.react('❌');
+  }
+};
+
+// Global handler for unhandled promise rejections
+process.on('unhandledRejection', (reason, promise) => {
+  console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+});
+
+handler.help = ['gdrive'];
+handler.tags = ['downloader'];
+handler.command = ['gd', 'gdrive'];
+
+export default handler;

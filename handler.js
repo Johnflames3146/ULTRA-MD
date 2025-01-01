@@ -6,25 +6,6 @@ import { unwatchFile, watchFile } from 'fs';
 import chalk from 'chalk';
 import fetch from 'node-fetch';
 import Pino from 'pino';
-import autoreactCommand from './plugins/Autoreact.js';
-
-const commands = new Map(); // Ensure commands is defined
-
-// Function to handle all messages
-const mainHandler = async (m, conn) => {
-  await autoreactCommand.all(m, { conn });
-  // other handlers...
-};
-
-// Ensure this listener is properly set up
-conn.ev.on('messages.upsert', async (msg) => {
-  const m = msg.messages[0];
-  if (!m.message) return;
-  await mainHandler(m, conn);
-});
-
-// Register commands
-commands.set('autoreact', autoreactCommand);
 /**
  * @type {import("@whiskeysockets/baileys")}
  */
@@ -144,7 +125,7 @@ export async function handler(chatUpdate) {
         if (!('sWelcome' in chat)) chat.sWelcome = ''
         if (!('useDocument' in chat)) chat.useDocument = false
         if (!('viewOnce' in chat)) chat.viewOnce = false
-        if (!('viewStory' in chat)) chat.viewStory = false
+        if (!('viewStory' in chat)) chat.viewStory = true
         if (!('welcome' in chat)) chat.welcome = false
         if (!('chatbot' in chat)) chat.chatbot = false
         if (!isNumber(chat.expired)) chat.expired = 0
@@ -167,7 +148,7 @@ export async function handler(chatUpdate) {
           sWelcome: '',
           useDocument: false,
           viewOnce: false,
-          viewStory: false,
+          viewStory: true,
           welcome: false,
           chatbot: false,
         }

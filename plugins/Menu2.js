@@ -20,7 +20,7 @@ let handler = async (m, { conn, usedPrefix, command}) => {
     let uptime = clockString(_uptime)
 let who = m.quoted ? m.quoted.sender : m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 if (!(who in global.db.data.users)) throw `✳️ The user is not found in my database`
-let pp = './assets/ultra.jpg'
+let pp = './assets/A.jpg'
 let user = global.db.data.users[who]
 let { name, exp, diamond, lastclaim, registered, regTime, age, level, role, warn } = global.db.data.users[who]
 let { min, xp, max } = xpRange(user.level, global.multiplier)
@@ -39,36 +39,48 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
 
-📜 *_Quote of the day: ${quote}_* 📜
+📋 *_Quote of the day: ${quote}_* 📋
+> ➠ *Bot Name* : *ULTRA-MD*
+> ➠ *Version*     : *3 . 1 . 0*
+> ➠ *Type*          : *PLUGINS*
+> ➠ *Platform*   : *LINUX*
 
-乂─『 *INFO*』─乂 
-
-◈┏━⟪ *MENU2* ⟫━⦿
-◈┃• Groupmenu
-◈┃• Animemenu
-◈┃• Infoanime
-◈┃• Makermenu
-◈┃• Ownermenu
-◈┃• Stickermenu
-◈┃• Toolsmenu
-◈┃• Infoanime
-◈┃• Logomenu
-◈┃• Setprivacy
-◈┃• Botmenu
-◈┃• Dlmenu
-◈┃• Enable
-◈┃• Aimenu
-◈┃• Aeditor
-◈┃• Play3
-◈┃• Menu
-◈┃• Menu3
-◈┃• Menu4
-◈┃• List
+◈┏━⟪ *MENU* ⟫━━⦿
+◈┃• groupmenu
+◈┃• animemenu
+◈┃• autoreact
+◈┃• infoanime
+◈┃• makermenu
+◈┃• ownermenu
+◈┃• stickermenu
+◈┃• toolsmenu
+◈┃• gamesmenu
+◈┃• logomenu
+◈┃• listplugin
+◈┃• economy
+◈┃• reactions
+◈┃• funmenu
+◈┃• nsfwmenu
+◈┃• randompic
+◈┃• randomvid
+◈┃• setprivacy
+◈┃• botmenu
+◈┃• listmenu
+◈┃• dlmenu
+◈┃• enable
+◈┃• aimenu
+◈┃• aeditor
+◈┃• imagen
+◈┃• menu
+◈┃• menu3
+◈┃• menu4
+◈┃• fancy
+◈┃• fancy2
 ◈┗━♪♪━★━☆━⦿
 
 © GlobalTechInfo
 
-> 💡 *_Remember, when in doubt, use ${usedPrefix}list or ${usedPrefix}help2. It's like my magic spell book!_* 💡
+> 💡 *_Remember, when in doubt, use ${usedPrefix}listmenu or ${usedPrefix}help It's like my magic spell book!_* 💡
 `
 
     
@@ -83,7 +95,7 @@ let str = `
 }
 handler.help = ['main']
 handler.tags = ['group']
-handler.command = ['menu2', 'help2'] 
+handler.command = ['menu', 'help'] 
 
 export default handler
 function clockString(ms) {

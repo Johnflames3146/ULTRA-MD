@@ -1,1 +1,105 @@
-const _0x4aed50=_0x1db6;(function(_0x5ad13f,_0x1f80e0){const _0x28c99c=_0x1db6,_0x328483=_0x5ad13f();while(!![]){try{const _0x99d0b5=parseInt(_0x28c99c(0x144))/(-0x1284+-0x2629*0x1+0x1c57*0x2)+parseInt(_0x28c99c(0x166))/(-0x3*-0x84e+-0x8*0xb1+-0x3e0*0x5)+parseInt(_0x28c99c(0x14b))/(-0xd*-0x1e7+-0xafe+-0xdba)*(-parseInt(_0x28c99c(0x143))/(-0x2183+0xa*-0x1e7+0x348d*0x1))+parseInt(_0x28c99c(0x174))/(-0x865+0x4*-0x5ea+0x2012)+-parseInt(_0x28c99c(0x157))/(0x257b+0xc*-0x2ae+-0x54d)*(-parseInt(_0x28c99c(0x163))/(-0x1*0x1f2b+-0xb4f*-0x1+-0x3*-0x6a1))+-parseInt(_0x28c99c(0x178))/(0x1922*-0x1+-0x1*-0x2258+-0x92e)+parseInt(_0x28c99c(0x145))/(-0x1*0x9b5+0x193a+0x3df*-0x4);if(_0x99d0b5===_0x1f80e0)break;else _0x328483['push'](_0x328483['shift']());}catch(_0x596718){_0x328483['push'](_0x328483['shift']());}}}(_0x3e61,-0x13efda+-0x136c4+0x2211c1));import _0x44956a from'node-fetch';import _0x32030f from'nayan-media-downloader';const {pintarest}=_0x32030f,handler=async(_0x350533,{conn:_0x52e73b,args:_0x30f7f5})=>{const _0x42033f=_0x1db6,_0x2f0eb6={'OFnSV':_0x42033f(0x136),'djEXb':function(_0x625a1c,_0xfab5fa){return _0x625a1c(_0xfab5fa);},'fXTZT':_0x42033f(0x156)+':','qWuBH':function(_0x4ca252,_0x156ef0){return _0x4ca252===_0x156ef0;},'RtChI':_0x42033f(0x13a),'wUwEc':_0x42033f(0x131)+_0x42033f(0x147)+_0x42033f(0x152)+'RL','HNnis':_0x42033f(0x160)+_0x42033f(0x139),'SwGRc':_0x42033f(0x149)+_0x42033f(0x147)+_0x42033f(0x168)+_0x42033f(0x165),'SWczQ':_0x42033f(0x141),'iJeQX':_0x42033f(0x177),'FFUVH':_0x42033f(0x175),'BDQCN':_0x42033f(0x154),'xOINk':_0x42033f(0x164)+_0x42033f(0x16d)+_0x42033f(0x14d)+_0x42033f(0x171),'svMUa':_0x42033f(0x15c)+_0x42033f(0x172)+_0x42033f(0x13c)+_0x42033f(0x130)+_0x42033f(0x159)+_0x42033f(0x15a)+_0x42033f(0x17c)+_0x42033f(0x15e)};if(!_0x30f7f5[0x67*-0x59+-0x2568+0x4937])throw _0x42033f(0x151)+_0x42033f(0x150)+_0x42033f(0x17a)+_0x42033f(0x14f)+_0x42033f(0x16f);if(!_0x30f7f5[0x1*0xfc7+-0xf43+-0x2*0x42][_0x42033f(0x176)](/(pinterest\.com\/pin\/|pin\.it\/)/gi))throw _0x42033f(0x14c)+_0x42033f(0x16e);_0x350533[_0x42033f(0x16b)]('⏳');try{const _0x736d57=_0x30f7f5[-0x197b*-0x1+0x1085+0x54*-0x80];console[_0x42033f(0x167)](_0x2f0eb6[_0x42033f(0x134)],_0x736d57);let _0x2bac9d=await _0x2f0eb6[_0x42033f(0x13e)](pintarest,_0x736d57);console[_0x42033f(0x167)](_0x2f0eb6[_0x42033f(0x142)],_0x2bac9d);const _0x4f61d9=_0x2f0eb6[_0x42033f(0x155)](_0x2bac9d[_0x42033f(0x169)],_0x2f0eb6[_0x42033f(0x15d)])?_0x2bac9d[_0x42033f(0x161)]:_0x2bac9d[_0x42033f(0x16a)];if(!_0x4f61d9)throw new Error(_0x2f0eb6[_0x42033f(0x148)]);console[_0x42033f(0x167)](_0x2f0eb6[_0x42033f(0x13b)],_0x4f61d9);const _0x513a05=await _0x2f0eb6[_0x42033f(0x13e)](_0x44956a,_0x4f61d9);if(!_0x513a05['ok'])throw new Error(_0x2f0eb6[_0x42033f(0x12f)]);const _0x115bc4=await _0x513a05[_0x42033f(0x140)+'r'](),_0x4da3c4=Buffer[_0x42033f(0x16c)](_0x115bc4),_0x2b9e5e=_0x2f0eb6[_0x42033f(0x155)](_0x2bac9d[_0x42033f(0x169)],_0x2f0eb6[_0x42033f(0x15d)])?_0x2f0eb6[_0x42033f(0x13d)]:_0x2f0eb6[_0x42033f(0x170)],_0x4f9e00=_0x2f0eb6[_0x42033f(0x155)](_0x2bac9d[_0x42033f(0x169)],_0x2f0eb6[_0x42033f(0x15d)])?_0x2f0eb6[_0x42033f(0x12c)]:_0x2f0eb6[_0x42033f(0x146)];await _0x52e73b[_0x42033f(0x135)](_0x350533[_0x42033f(0x14e)],_0x4da3c4,_0x2b9e5e,_0x42033f(0x14a)+_0x42033f(0x179)+_0x42033f(0x162),_0x350533,![],{'mimetype':_0x4f9e00}),_0x350533[_0x42033f(0x16b)]('✅');}catch(_0xaaa4e8){console[_0x42033f(0x133)](_0x2f0eb6[_0x42033f(0x132)],_0xaaa4e8[_0x42033f(0x13f)],_0xaaa4e8[_0x42033f(0x17b)]),await _0x350533[_0x42033f(0x138)](_0x2f0eb6[_0x42033f(0x15b)]),_0x350533[_0x42033f(0x16b)]('❌');}};function _0x1db6(_0x2044da,_0x4b2086){const _0x4ce410=_0x3e61();return _0x1db6=function(_0x1b512d,_0x50f82c){_0x1b512d=_0x1b512d-(-0x1a*0x50+-0x1135+-0x3b*-0x73);let _0x3395e8=_0x4ce410[_0x1b512d];return _0x3395e8;},_0x1db6(_0x2044da,_0x4b2086);}handler[_0x4aed50(0x137)]=[_0x4aed50(0x12d)+_0x4aed50(0x15f)],handler[_0x4aed50(0x158)]=[_0x4aed50(0x153)],handler[_0x4aed50(0x12e)]=[_0x4aed50(0x173)];function _0x3e61(){const _0x12cddc=['st:','\x20occurred\x20','pinterest','411950yptBIJ','video/mp4','match','media.jpg','13496088VOoOUX','𝚈\x20©\x20𝚄𝙻𝚃𝚁𝙰-','st\x20link\x20ne','stack','\x20again\x20lat','FFUVH','pinterest\x20','command','SwGRc','essing\x20the','Could\x20not\x20','xOINk','error','OFnSV','sendFile','URL:','help','reply','RL:','video','HNnis','while\x20proc','SWczQ','djEXb','message','arrayBuffe','media.mp4','fXTZT','36tHPCLG','408075zzsANW','7685775eMZAcy','BDQCN','fetch\x20the\x20','wUwEc','Failed\x20to\x20','*𝙿𝙾𝚆𝙴𝚁𝙴𝙳\x20𝙱','35289IKutkW','❌\x20*Link\x20in','om\x20Pintere','chat','xt\x20to\x20the\x20','he\x20Pintere','✳️\x20*Enter\x20t','download\x20U','downloader','image/jpeg','qWuBH','Media\x20Data','220152gloqxS','tags','\x20request.\x20','Please\x20try','svMUa','⚠️\x20An\x20error','RtChI','er.','<url>','Download\x20U','url','𝙼𝙳*','119MkrfGc','Error\x20down','ent','1342602yifVaH','log','media\x20cont','type','thumbnail','react','from','loading\x20fr','correct*','command*','iJeQX'];_0x3e61=function(){return _0x12cddc;};return _0x3e61();}export default handler;
+import fetch from 'node-fetch';
+import pkg from 'nayan-videos-downloader';
+const { pintarest } = pkg; // Correct import for the package
+
+const fetchWithRetry = async (url, options, retries = 3) => {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const response = await fetch(url, options);
+      if (response.ok) return response;
+      console.log(`Retrying... (${i + 1})`);
+    } catch (error) {
+      console.error("Error fetching URL:", error.message);
+      if (i === retries - 1) throw new Error("Failed to fetch media content after retries");
+    }
+  }
+};
+
+const handler = async (m, { conn, args }) => {
+  if (!args[0]) throw '✳️ Enter the Pinterest link next to the command';
+  if (!args[0].match(/(pinterest\.com\/pin\/|pin\.it\/)/gi)) throw '❌ Link incorrect';
+
+  m.react('⏳');
+  try {
+    const url = args[0];
+    console.log('Checking link:', url);
+
+    // Fetching data from Pinterest using 'pinterest' method from the package
+    let mediaData;
+    try {
+      mediaData = await pintarest(url); // You must ensure this method exists and works
+      console.log('Media Data:', mediaData);
+    } catch (error) {
+      console.error('Error fetching Pinterest data:', error.message);
+      throw new Error('Could not fetch Pinterest data');
+    }
+
+    // Ensure mediaData and the necessary properties exist before accessing them
+    if (!mediaData || (!mediaData.url && !mediaData.thumbnail)) {
+      throw new Error('No valid media URL found');
+    }
+
+    const mediaUrl = mediaData.url || mediaData.thumbnail; // Use thumbnail if URL is not available
+    console.log('Media URL:', mediaUrl);
+
+    // Handle media based on its type (image or video)
+    const response = await fetchWithRetry(mediaUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*'
+      }
+    });
+
+    const contentType = response.headers.get('content-type');
+    console.log('Content Type:', contentType);
+
+    if (!contentType) {
+      throw new Error('No content-type received');
+    }
+
+    // Handle video
+    if (contentType.includes('video')) {
+      const arrayBuffer = await response.arrayBuffer();
+      const mediaBuffer = Buffer.from(arrayBuffer);
+
+      if (mediaBuffer.length === 0) throw new Error('Downloaded video is empty');
+
+      const fileName = mediaData.title ? `${mediaData.title}.mp4` : 'media.mp4';
+      const mimetype = 'video/mp4';
+
+      await conn.sendFile(m.chat, mediaBuffer, fileName, '*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 © 𝚄𝙻𝚃𝚁𝙰-𝙼𝙳*', m, false, { mimetype });
+      m.react('✅');
+    } 
+    // Handle image
+    else if (contentType.includes('image')) {
+      const arrayBuffer = await response.arrayBuffer();
+      const mediaBuffer = Buffer.from(arrayBuffer);
+
+      if (mediaBuffer.length === 0) throw new Error('Downloaded image is empty');
+
+      const fileName = mediaData.title ? `${mediaData.title}.jpg` : 'media.jpg';
+      const mimetype = 'image/jpeg';
+
+      await conn.sendFile(m.chat, mediaBuffer, fileName, '*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 © 𝚄𝙻𝚃𝚁𝙰-𝙼𝙳*', m, false, { mimetype });
+      m.react('✅');
+    } else {
+      throw new Error('Unsupported media type');
+    }
+
+  } catch (error) {
+    console.error('Error processing Pinterest download:', error.message);
+    await m.reply('⚠️ An error occurred while processing the request. Please try again later.');
+    m.react('❌');
+  }
+};
+
+// Global handler for unhandled promise rejections
+process.on('unhandledRejection', (reason, promise) => {
+  console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+});
+
+handler.help = ['pinterest', 'pint'];
+handler.tags = ['downloader'];
+handler.command = ['pinterest', 'pint'];
+
+export default handler;
